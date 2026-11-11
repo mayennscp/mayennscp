@@ -4,8 +4,7 @@ I study **Computer Science** and **Geodesy**, and I'm heading towards
 **geoinformatics**, where code meets maps 🗺️.
 
 I like building things that move: fluid mobile interfaces and simulations
-running on the GPU. After hours I play a lot of video games and make small
-ones for fun 🎮.
+running on the GPU. In my free time I'm a big fan of video games 🎮.
 
 #### 🔭 Featured projects
 
@@ -29,5 +28,4 @@ ones for fun 🎮.
 
 #### 🌱 Currently learning
 
-GIS and geoinformatics, GPU programming with WebGPU, and game development
-as a hobby.
+GIS and geoinformatics, and GPU programming with WebGPU.
