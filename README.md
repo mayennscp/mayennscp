@@ -13,7 +13,15 @@ mobile interfaces and simulations running on the GPU.
 
 #### 🛠️ Tech I work with
 
-TypeScript · React Native · Expo · Reanimated · Gesture Handler · TypeGPU / WebGPU · Java · JavaFX · HTML & CSS
+**Main language:** Python 🐍
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python · TypeScript / JavaScript · C++ · C · C# · Rust · Java |
+| **Functional** | Elixir · Erlang · Haskell |
+| **Mobile** | React Native · Expo · Reanimated · Gesture Handler |
+| **Web** | HTML · CSS · JavaScript · TypeScript · Vite |
+| **Graphics & games** | TypeGPU / WebGPU · Unity · JavaFX |
 
 #### 🌱 Currently learning
 
