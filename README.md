@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-I'm a Computer Science student who likes building things that move: fluid
-mobile interfaces and simulations running on the GPU.
+I study **Computer Science** and **Geodesy**. I love video games and want to
+make them one day 🎮, and I'm heading towards **geoinformatics**, where code
+meets maps 🗺️.
+
+Meanwhile I build things that move: fluid mobile interfaces and simulations
+running on the GPU.
 
 #### 🔭 Featured projects
 
@@ -25,4 +29,4 @@ mobile interfaces and simulations running on the GPU.
 
 #### 🌱 Currently learning
 
-GPU programming with WebGPU, and performance on mobile.
+GPU programming with WebGPU, game development, and GIS / geoinformatics.
